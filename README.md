@@ -6,6 +6,8 @@ there are mainly 2 firmware for alpha2, one is for alpha2 and other is for lynx/
 while alpha2 firmware is more pure asop style, lynx/qrobot add many background service from amazon/tencent. both image dump has been added here for backup perference.
 
 
+download RKDevTool_v3.32_for_window.zip here and unzip it.
+
 right click RKDevTool.exe and use admin to run.
 you will see ADB device below if you connect to the working robot.
 
@@ -37,5 +39,7 @@ adb root
 adb remount
 adb shell rm /system/xbin/su
 
+
+you can install similiar rootchecker apk to verify if your alpha2 is rooted or not.
 
 <img width="476" height="664" alt="image" src="https://github.com/user-attachments/assets/18f381e7-27dd-496f-be0c-9262b7b0a2b2" />
