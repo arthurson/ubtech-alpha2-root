@@ -17,7 +17,7 @@ press 切換 switch to roboot the roboit, it will become loader mode.
 <img width="970" height="461" alt="image" src="https://github.com/user-attachments/assets/a50b8e51-55ac-4784-b902-da0dbcb7a7c5" />
 
 
-press 設備分類表 to renew the image address
+press 設備分類表 to download robot's image address and renew the chat data, this step is very important, as you have to use current address from your robot, otherwise flashing will brick your alpha2.
 
 <img width="970" height="461" alt="image" src="https://github.com/user-attachments/assets/9862a560-46d5-4751-82bf-0dffe96f8faa" />
 
